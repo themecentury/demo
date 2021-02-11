@@ -1,0 +1,343 @@
+{
+    "default": {
+        "categories": [
+            "Education"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass - Default",
+        "demo_link": "https://demo.themecentury.com/wpthemes/hamroclass/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "learnpress",
+                    "init": "learnpress\/learnpress.php",
+                    "name": "LearnPress"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                },
+                {
+                    "slug": "the-events-calendar",
+                    "init": "the-events-calendar\/the-events-calendar.php",
+                    "name": "The Events Calendar"
+                }
+            ]
+        }
+    },
+    "arabic": {
+        "categories": [
+            "Education",
+            "RTL"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass - Arabic",
+        "demo_link": "https://demo.themecentury.com/wpthemes/hamroclass-rtl/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "learnpress",
+                    "init": "learnpress\/learnpress.php",
+                    "name": "LearnPress"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                },
+                {
+                    "slug": "the-events-calendar",
+                    "init": "the-events-calendar\/the-events-calendar.php",
+                    "name": "The Events Calendar"
+                }
+            ]
+        }
+    },
+    "magazine": {
+        "categories": [
+            "Magazine"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass - Magazine",
+        "demo_link": "https://demo.themecentury.com/wpthemes/hamroclass-magazine/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "blog": {
+        "categories": [
+            "Blog"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass - Blog",
+        "demo_link": "https://demo.themecentury.com/wpthemes/hamroclass-blog/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "default-pro": {
+        "categories": [
+            "Education"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass Pro - Default",
+        "demo_link": "https://demo.themecentury.com/wpplugins/hamroclass-pro/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "learnpress",
+                    "init": "learnpress\/learnpress.php",
+                    "name": "LearnPress"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                },
+                {
+                    "slug": "the-events-calendar",
+                    "init": "the-events-calendar\/the-events-calendar.php",
+                    "name": "The Events Calendar"
+                }
+                
+            ],
+            "premium": [
+                {
+                    "slug": "hamroclass-pro",
+                    "init": "hamroclass-pro\/hamroclass-pro.php",
+                    "name": "HamroClass Pro",
+                    "link": "https://themecentury.com/downloads/hamroclass-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    },
+    "arabic-pro": {
+        "categories": [
+            "Education",
+            "RTL"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass Pro - Arabic",
+        "demo_link": "https://demo.themecentury.com/wpplugins/hamroclass-pro-rtl/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "learnpress",
+                    "init": "learnpress\/learnpress.php",
+                    "name": "LearnPress"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                },
+                {
+                    "slug": "the-events-calendar",
+                    "init": "the-events-calendar\/the-events-calendar.php",
+                    "name": "The Events Calendar"
+                }
+            ],
+            "premium": [
+                {
+                    "slug": "hamroclass-pro",
+                    "init": "hamroclass-pro\/hamroclass-pro.php",
+                    "name": "HamroClass Pro",
+                    "link": "https://themecentury.com/downloads/hamroclass-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    },
+    "magazine-pro": {
+        "categories": [
+            "Magazine"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass Pro - Sabko Magazine",
+        "demo_link": "https://demo.themecentury.com/wpplugins/hamroclass-pro-magazine/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                }
+            ],
+            "premium": [
+                {
+                    "slug": "hamroclass-pro",
+                    "init": "hamroclass-pro\/hamroclass-pro.php",
+                    "name": "HamroClass Pro",
+                    "link": "https://themecentury.com/downloads/hamroclass-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    },
+    "blog-pro": {
+        "categories": [
+            "Blog"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass Pro - Blog",
+        "demo_link": "https://demo.themecentury.com/wpplugins/hamroclass-pro-blog/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                }
+            ],
+            "premium": [
+                {
+                    "slug": "hamroclass-pro",
+                    "init": "hamroclass-pro\/hamroclass-pro.php",
+                    "name": "HamroClass Pro",
+                    "link": "https://themecentury.com/downloads/hamroclass-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    },
+    "university-pro": {
+        "categories": [
+            "University"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass Pro - University",
+        "demo_link": "https://demo.themecentury.com/wpplugins/hamroclass-pro-university/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                }
+            ],
+            "premium": [
+                {
+                    "slug": "hamroclass-pro",
+                    "init": "hamroclass-pro\/hamroclass-pro.php",
+                    "name": "HamroClass Pro",
+                    "link": "https://themecentury.com/downloads/hamroclass-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    },
+    "kindergarten-pro": {
+        "categories": [
+            "Kindergarten"
+        ],
+        "home_slug": "home",
+        "blog_slug": "blog",
+        "posts_to_show": "10",
+        "elementor_width": "1220",
+        "demo_name": "HamroClass Pro - Kindergarten",
+        "demo_link": "https://demo.themecentury.com/wpplugins/hamroclass-pro-kindergarten/",
+        "required_plugins": {
+            "free": [
+                {
+                    "slug": "century-toolkit",
+                    "init": "century-toolkit\/century-toolkit.php",
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7",
+                    "init": "contact-form-7\/wp-contact-form-7.php",
+                    "name": "Contact Form 7"
+                }
+            ],
+            "premium": [
+                {
+                    "slug": "hamroclass-pro",
+                    "init": "hamroclass-pro\/hamroclass-pro.php",
+                    "name": "HamroClass Pro",
+                    "link": "https://themecentury.com/downloads/hamroclass-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+a:4:{s:8:"template";s:14:"newspaper-plus";s:4:"mods";a:17:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:8;s:10:"top-header";i:9;}s:18:"custom_css_post_id";i:40;s:29:"newspaper_plus_copyright_text";s:152:"حقوق الطبع والنشر © [the-year] yourdomain.com جميع الحقوق محفوظة. الموضوع: Newspaper Plus بواسطة [mgs-url].";s:29:"newspaper_lite_ticker_caption";s:6:"آخر";s:18:"site_layout_option";s:12:"boxed_layout";s:34:"newspaper_plus_header_style_option";s:7:"style-3";s:36:"newspaper_plus_more_stories_settings";a:1:{s:17:"more_stories_text";s:28:"المزيد من القصص";}s:40:"newspaper_plus_rading_indicator_settings";a:1:{s:14:"read_more_text";s:20:"اقرأ أكثر...";}s:14:"social_fb_link";s:44:"https://www.facebook.com/themecenturydotcom/";s:14:"social_tw_link";s:32:"https://twitter.com/ThemeCentury";s:14:"social_gp_link";s:23:"https://plus.google.com";s:15:"social_lnk_link";s:41:"https://www.linkedin.com/in/themecentury/";s:14:"social_yt_link";s:19:"https://youtube.com";s:14:"social_vm_link";s:17:"https://vimeo.com";s:15:"social_pin_link";s:21:"https://pinterest.com";s:17:"social_insta_link";s:21:"https://instagram.com";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:164:".feature-post{
+	float:left;
+}
+
+.rtl .mgs-featured-slider-wrapper{
+	margin-left:0px;
+}
+
+.feature-post .single-featured-wrap{
+	padding-left:0px;
+	padding-right:5px;
+}";}

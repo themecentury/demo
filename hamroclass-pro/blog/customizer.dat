@@ -1,0 +1,7 @@
+a:4:{s:8:"template";s:10:"hamroclass";s:4:"mods";a:15:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:23:"hamroclass_primary_menu";i:2;s:22:"hamroclass_footer_menu";i:3;}s:18:"custom_css_post_id";i:26;s:31:"centurylib_excerpt_length_index";i:350;s:26:"hamroclass_branding_option";s:7:"sidebar";s:29:"harmoclass_branding_alignment";s:6:"center";s:28:"hamroclass_top_header_option";s:4:"show";s:25:"hamroclass_notice_caption";s:7:"Treding";s:12:"header_video";i:0;s:12:"header_image";s:126:"https://demo.themecentury.com/wpplugins/hamroclass-pro-blog/wp-content/uploads/sites/10/2019/11/hamroclass-pro-blog-banner.jpg";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:23;s:3:"url";s:126:"https://demo.themecentury.com/wpplugins/hamroclass-pro-blog/wp-content/uploads/sites/10/2019/11/hamroclass-pro-blog-banner.jpg";s:13:"thumbnail_url";s:126:"https://demo.themecentury.com/wpplugins/hamroclass-pro-blog/wp-content/uploads/sites/10/2019/11/hamroclass-pro-blog-banner.jpg";s:6:"height";i:327;s:5:"width";i:960;}s:22:"hamroclass_site_layout";s:22:"hmc_boxed_width_layout";s:16:"background_color";s:6:"3a3a3a";s:24:"hamroclass_notice_option";s:4:"show";s:21:"footer_copyright_text";s:50:"Copyright 2019 yourdomain.com All rights reserved.";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:75:".custom-header-media img{
+	width:100%;
+}
+
+.hmc-content-list p{
+	margin:0;
+}";}

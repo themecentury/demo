@@ -1,0 +1,60 @@
+{
+    "default": {
+        "categories":[
+            "Blog"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Lekh - Default",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/lekh\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "default-pro": {
+        "categories":[
+            "Blog"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Lekh - Pro",
+        "demo_link": "https://demo.themecentury.com/wpplugins/lekh-pro/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ],
+            "premium":[ 
+                {
+                    "slug": "lekh-pro", 
+                    "init": "lekh-pro\/lekh-pro.php", 
+                    "name": "Lekh Pro",
+                    "link": "https://themecentury.com/downloads/lekh-pro-premium-wordpress-plugin/"
+                }
+            ]
+        }
+    }
+}

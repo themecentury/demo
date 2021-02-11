@@ -1,0 +1,10 @@
+a:4:{s:8:"template";s:10:"hamroclass";s:4:"mods";a:16:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:23:"hamroclass_primary_menu";i:2;s:19:"hamroclass_top_menu";i:6;s:22:"hamroclass_footer_menu";i:6;}s:18:"custom_css_post_id";i:18;s:22:"homepage_widget_layout";s:7:"layout1";s:22:"hamroclass_site_layout";s:22:"hmc_boxed_width_layout";s:26:"hamroclass_branding_option";s:7:"sidebar";s:31:"centurylib_excerpt_length_index";i:350;s:25:"hamroclass_archive_layout";s:4:"grid";s:24:"hamroclass_search_layout";s:4:"list";s:22:"hamroclass_blog_layout";s:7:"classic";s:19:"banner_slider_items";s:2:"[]";s:24:"hamroclass_services_list";s:2:"[]";s:16:"background_image";s:150:"https://demo.themecentury.com/wpplugins/hamroclass-pro-magazine/wp-content/uploads/sites/5/2019/11/hamroclass-pro-edu-magazine-graduation-ceremony.jpg";s:32:"centurylib_excerpt_length_search";i:450;s:29:"centurylib_enable_date_search";s:4:"show";s:35:"centurylib_enable_authorname_search";s:4:"show";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:181:".hmc-home-content-section{
+	padding-top:30px;
+}
+
+.hmc-header-banner-area .widget_media_image img{
+	width:100%;
+}
+.featured-posts-wrapper .hamroclass-post-meta {
+    display: none;
+}";}

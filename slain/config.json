@@ -1,0 +1,62 @@
+{
+    "default": {
+        "categories":[
+            "Blog"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Slain - Blog",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/slain\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "ecommerce": {
+        "categories":[
+            "Blog"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Slain - eCommerce",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/slain-ecommerce\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "woocommerce", 
+                    "init": "woocommerce\/woocommerce.php", 
+                    "name": "WooCommerce"
+                },
+                {
+                    "slug": "elementor", 
+                    "init": "elementor\/elementor.php", 
+                    "name": "Elementor"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    }
+}

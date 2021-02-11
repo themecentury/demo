@@ -1,0 +1,27 @@
+a:4:{s:8:"template";s:10:"hamroclass";s:4:"mods";a:31:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:23:"hamroclass_primary_menu";i:2;s:22:"hamroclass_footer_menu";i:3;}s:18:"custom_css_post_id";i:6;s:21:"external_header_video";s:0:"";s:19:"banner_slider_items";s:255:"[{"post_type_item":"51","description_alignment":"left","primary_button_label":"View Details","primary_button_url":"#","primary_button_target":"_self","secondary_button_label":"Join your child","secondary_button_url":"#","secondary_button_target":"_self"}]";s:31:"banner_slider_transition_effect";s:5:"slide";s:26:"banner_slider_arrow_layout";s:7:"disable";s:28:"banner_slider_thumbnail_size";s:25:"hamroclass-thumb-1200x500";s:32:"banner_slider_description_length";i:300;s:24:"hamroclass_services_list";s:427:"[{"post_type_item":"57","font_color":"#ffffff","background_color":"#ff633a","service_fa_icon":"fa-random"},{"post_type_item":"59","font_color":"#ffffff","background_color":"#fba31e","service_fa_icon":"fa-heart"},{"post_type_item":"61","font_color":"#ffffff","background_color":"#9bd535","service_fa_icon":"fa-music"},{"post_type_item":"63","font_color":"#ffffff","background_color":"#ff5021","service_fa_icon":"fa-area-chart"}]";s:28:"main_service_overlap_toppart";i:0;s:25:"main_service_noof_columns";i:4;s:23:"banner_slider_post_type";s:4:"page";s:30:"banner_slider_transition_delay";i:6;s:33:"banner_slider_transition_duration";i:3;s:12:"header_image";s:119:"https://demo.themecentury.com/wpplugins/hamroclass-pro-kindergarten/wp-content/uploads/sites/6/2019/11/kindergarten.png";s:28:"hamroclass_top_header_option";s:4:"hide";s:31:"hamroclass_show_branding_header";s:7:"disable";s:24:"hamroclass_notice_option";s:4:"hide";s:22:"hamroclass_theme_color";s:7:"#f73d00";s:16:"background_color";s:6:"ffffff";s:22:"hamroclass_site_layout";s:20:"hmc_fullwidth_layout";s:29:"banner_slider_enable_autoplay";i:0;s:28:"banner_slider_enable_overlay";i:0;s:16:"header_textcolor";s:5:"blank";s:29:"harmoclass_branding_alignment";s:6:"center";s:26:"hamroclass_branding_option";s:7:"sidebar";s:11:"custom_logo";i:41;s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:41;s:3:"url";s:119:"https://demo.themecentury.com/wpplugins/hamroclass-pro-kindergarten/wp-content/uploads/sites/6/2019/11/kindergarten.png";s:13:"thumbnail_url";s:119:"https://demo.themecentury.com/wpplugins/hamroclass-pro-kindergarten/wp-content/uploads/sites/6/2019/11/kindergarten.png";s:6:"height";i:475;s:5:"width";i:2000;}s:21:"footer_copyright_text";s:35:"Copyright 2019 All rights reserved.";s:33:"hamroclass_pro_remvoe_footer_link";i:0;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:350:"#mid-footer{
+	color:#fff;
+	background:#fa5f00;
+}
+
+#mid-footer .widget h2,
+#mid-footer .widget a{
+	color:#fff;
+}
+#mid-footer .social-icons{
+	text-align:center;
+}
+
+#mid-footer .social-icons a{
+	color:#fff;
+	border-radius: 50%;
+}
+
+.bottom-footer{
+	color:#fff;
+	border-top:1px solid #fff;
+}
+
+#footer-navigation ul li a{
+	color:#fff;
+	border-color:#fff;
+}";}

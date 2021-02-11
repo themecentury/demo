@@ -1,0 +1,87 @@
+{
+    "default": {
+        "categories":[
+            "eCommerce"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Bikri - Main",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/bikri\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "woocommerce", 
+                    "init": "woocommerce\/woocommerce.php", 
+                    "name": "WooCommerce"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "blog": {
+        "categories":[
+            "Blog"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Bikri - Blog",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/bikri-blog\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "ecommerce": {
+        "categories":[
+            "eCommerce"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Bikri - eCommerce",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/bikri-ecommerce\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "elementor", 
+                    "init": "elementor\/elementor.php", 
+                    "name": "Elementor"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    }
+}

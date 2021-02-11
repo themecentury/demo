@@ -1,0 +1,120 @@
+{
+    "default": {
+        "categories":[
+            "Magazine"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "BlogMagazine - Default",
+        "demo_link": "https:\/\/demo.dinesh-ghimire.com.np\/wpthemes\/blogmagazine\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "everest-forms", 
+                    "init": "everest-forms\/everest-forms.php", 
+                    "name": "Everest Forms"
+                }
+            ]
+        }
+    },
+    "arabic": {
+        "categories":[
+            "Magazine",
+            "RTL"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "BlogMagazine - Arabic",
+        "demo_link": "https:\/\/demo.dinesh-ghimire.com.np\/wpthemes\/blogmagazine-rtl\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "everest-forms", 
+                    "init": "everest-forms\/everest-forms.php", 
+                    "name": "Everest Forms"
+                }
+            ]
+        }
+    },
+    "default-pro": {
+        "categories":[
+            "Magazine",
+            "RTL"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "BlogMagazine Pro - Default",
+        "demo_link": "https:\/\/demo.dinesh-ghimire.com.np/wpplugins/blogmagazine-pro\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "everest-forms", 
+                    "init": "everest-forms\/everest-forms.php", 
+                    "name": "Everest Forms"
+                }
+            ],
+            "premium":[ 
+                {
+                    "slug": "blogmagazine-pro", 
+                    "init": "blogmagazine-pro\/blogmagazine-pro.php", 
+                    "name": "BlogMagazine Pro",
+                    "link": "https:\/\/dinesh-ghimire.com.np/downloads/blogmagazine-pro-premium-wordpress-plugin\/"
+                }
+            ]
+        }
+    },
+    "darkmode-pro": {
+        "categories":[
+            "Magazine"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "BlogMagazine Pro - Darkmode",
+        "demo_link": "https:\/\/demo.dinesh-ghimire.com.np/wpplugins/blogmagazine-pro-darkmode\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "everest-forms", 
+                    "init": "everest-forms\/everest-forms.php", 
+                    "name": "Everest Forms"
+                }
+            ],
+            "premium":[ 
+                {
+                    "slug": "blogmagazine-pro", 
+                    "init": "blogmagazine-pro\/blogmagazine-pro.php", 
+                    "name": "BlogMagazine Pro",
+                    "link": "https:\/\/dinesh-ghimire.com.np/downloads/blogmagazine-pro-premium-wordpress-plugin\/"
+                }
+            ]
+        }
+    }
+}
