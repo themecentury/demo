@@ -1,6 +1,32 @@
 {
     "default": {
         "categories":[
+            "Blog", 
+            "Magazine"
+        ],
+        "home_slug":"home",
+        "blog_slug":"blog",
+        "posts_to_show":"10",
+        "elementor_width":"1220",
+        "demo_name": "Slain - News",
+        "demo_link": "https:\/\/demo.themecentury.com\/wpthemes\/slain\/",
+        "required_plugins": {
+            "free":[ 
+                {
+                    "slug": "century-toolkit", 
+                    "init": "century-toolkit\/century-toolkit.php", 
+                    "name": "Century ToolKit"
+                },
+                {
+                    "slug": "contact-form-7", 
+                    "init": "contact-form-7\/wp-contact-form-7.php", 
+                    "name": "Contact Form 7"
+                }
+            ]
+        }
+    },
+    "blog": {
+        "categories":[
             "Blog"
         ],
         "home_slug":"home",
