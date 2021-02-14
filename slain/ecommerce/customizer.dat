@@ -1,1 +1,23 @@
-a:4:{s:8:"template";s:14:"newspaper-lite";s:4:"mods";a:25:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:7:"primary";i:36;s:6:"footer";i:75;s:10:"top-header";i:76;}s:18:"custom_css_post_id";i:-1;s:18:"site_layout_option";s:12:"boxed_layout";s:14:"social_fb_link";s:44:"https://www.facebook.com/themecenturydotcom/";s:14:"social_tw_link";s:32:"https://twitter.com/ThemeCentury";s:15:"social_lnk_link";s:41:"https://www.linkedin.com/in/themecentury/";s:14:"social_gp_link";s:23:"https://plus.google.com";s:14:"social_yt_link";s:19:"https://youtube.com";s:14:"social_vm_link";s:17:"https://vimeo.com";s:15:"social_pin_link";s:21:"https://pinterest.com";s:17:"social_insta_link";s:21:"https://instagram.com";s:16:"header_textcolor";s:6:"000000";s:29:"newspaper_lite_copyright_text";s:19:"2019 newspaper-lite";s:29:"newspaper_lite_archive_layout";s:7:"classic";s:20:"footer_widget_option";s:7:"column3";s:29:"newspaper_lite_ticker_caption";s:13:"Breaking News";s:34:"newspaper_lite_category_color_blog";s:7:"#1e73be";s:38:"newspaper_lite_category_color_business";s:7:"#81d742";s:37:"newspaper_lite_category_color_economy";s:7:"#eeee22";s:36:"newspaper_lite_category_color_health";s:7:"#f42800";s:43:"newspaper_lite_category_color_international";s:7:"#dd9933";s:40:"newspaper_lite_category_color_technology";s:7:"#dd3333";s:37:"newspaper_lite_category_color_fashion";s:7:"#4f1793";s:36:"newspaper_lite_category_color_sports";s:7:"#69cc00";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:0:"";}
+a:4:{s:8:"template";s:5:"slain";s:4:"mods";a:10:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:4:"main";i:16;}s:18:"custom_css_post_id";i:217;s:27:"slain_header_items_position";s:10:"navigation";s:24:"slain_enable_sticky_menu";i:1;s:27:"slain_main_nav_show_sidebar";i:1;s:26:"slain_main_nav_search_icon";i:1;s:34:"centurylib_enable_breadcrumbs_page";s:7:"disable";s:31:"slain_main_navigation_alignment";s:4:"left";s:26:"slain_main_nav_random_icon";i:0;}s:7:"options";a:18:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"0";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:595:".woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+	border:1px solid #dedede;
+	padding-bottom:20px;
+}
+
+.woocommerce ul.products li.product a img{
+	border-bottom:1px solid #dedede;
+}
+
+body.home .post-header{
+	display:none;
+}
+.main-container,
+.post-content{
+	overflow:visible;
+}
+.woocommerce ul.products.columns-4 li.product, .woocommerce-page ul.products.columns-4 li.product{
+	width: 22.05% !important;
+	margin: 0 3.8% 2.992em 0 !important;
+}
+.woocommerce ul.products.columns-4 li.last, .woocommerce-page ul.products.columns-4 li.last{
+	margin-right:0px !important;
+}";}
