@@ -52,7 +52,7 @@
     },
     "ecommerce": {
         "categories":[
-            "Blog"
+            "eCommerce"
         ],
         "home_slug":"home",
         "blog_slug":"blog",
