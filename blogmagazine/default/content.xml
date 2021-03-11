@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4" created="2020-04-06 15:17" -->
+	<!-- generator="WordPress/5.7" created="2021-03-11 15:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>BlogMagazine</title>
 	<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine</link>
 	<description>Free Blog and Magazine WordPress Themes</description>
-	<pubDate>Mon, 06 Apr 2020 15:17:09 +0000</pubDate>
+	<pubDate>Thu, 11 Mar 2021 15:24:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.dinesh-ghimire.com.np/wpthemes/</wp:base_site_url>
+	<wp:base_site_url>https://demo.dinesh-ghimire.com.np/wpthemes/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[developerdinesh]]></wp:author_login><wp:author_email><![CDATA[developer.dinesh1@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[DineshDemo]]></wp:author_display_name><wp:author_first_name><![CDATA[Dinesh]]></wp:author_first_name><wp:author_last_name><![CDATA[Ghimire]]></wp:author_last_name></wp:author>
@@ -562,735 +562,735 @@
 		<wp:tag_name><![CDATA[world best]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
-		<wp:term_id><![CDATA[84]]></wp:term_id>
+		<wp:term_id>84</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[10-places-in-thailand]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[10 places in thailand]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[57]]></wp:term_id>
+		<wp:term_id>57</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[abs-fast]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[abs fast]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[63]]></wp:term_id>
+		<wp:term_id>63</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[aggressively-safe]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[aggressively safe]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[68]]></wp:term_id>
+		<wp:term_id>68</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[alpine-adventure]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[alpine adventure]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[101]]></wp:term_id>
+		<wp:term_id>101</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[amazing-bridges]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[amazing bridges]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[71]]></wp:term_id>
+		<wp:term_id>71</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[american-football-player]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[american football player]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[aribnb]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[aribnb]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[99]]></wp:term_id>
+		<wp:term_id>99</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[awesome]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[awesome]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[awful]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[awful]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[83]]></wp:term_id>
+		<wp:term_id>83</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[backpackers]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[backpackers]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[97]]></wp:term_id>
+		<wp:term_id>97</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[barbell]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[barbell]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[36]]></wp:term_id>
+		<wp:term_id>36</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[beach-cave]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[beach cave]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[46]]></wp:term_id>
+		<wp:term_id>46</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[bigger-fires]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[bigger fires]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[42]]></wp:term_id>
+		<wp:term_id>42</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[biggest-waterfall]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[biggest waterfall]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[73]]></wp:term_id>
+		<wp:term_id>73</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Blog]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[85]]></wp:term_id>
+		<wp:term_id>85</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[boat]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[boat]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[61]]></wp:term_id>
+		<wp:term_id>61</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[boxing]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[boxing]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[98]]></wp:term_id>
+		<wp:term_id>98</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[bridge]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Bridge]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[53]]></wp:term_id>
+		<wp:term_id>53</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[business]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[button]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[button]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[45]]></wp:term_id>
+		<wp:term_id>45</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cascades]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[cascades]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[casestudy]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[casestudy]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[75]]></wp:term_id>
+		<wp:term_id>75</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[caster-semenya]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[caster semenya]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[41]]></wp:term_id>
+		<wp:term_id>41</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[china]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[china]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[95]]></wp:term_id>
+		<wp:term_id>95</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[choose-barbell]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[choose barbell]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[47]]></wp:term_id>
+		<wp:term_id>47</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[climate-change]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[climate change]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[48]]></wp:term_id>
+		<wp:term_id>48</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cloud-seeding]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[cloud seeding]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[92]]></wp:term_id>
+		<wp:term_id>92</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[control-robots]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[control robots]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[29]]></wp:term_id>
+		<wp:term_id>29</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[corporate-world]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[corporate world]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[87]]></wp:term_id>
+		<wp:term_id>87</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[daylight-is-burning]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[daylight is burning]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[50]]></wp:term_id>
+		<wp:term_id>50</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[desert]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[desert]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[design]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Design]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[design]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[design]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[design-lover]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[design lover]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[essential-principles]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[essential principles]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[58]]></wp:term_id>
+		<wp:term_id>58</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exercise]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[exercise]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[facebook]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[facebook]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[64]]></wp:term_id>
+		<wp:term_id>64</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fading-art]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[fading art]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[34]]></wp:term_id>
+		<wp:term_id>34</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitness]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fitness]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[55]]></wp:term_id>
+		<wp:term_id>55</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitness]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[fitness]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[80]]></wp:term_id>
+		<wp:term_id>80</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitness-business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[fitness business]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[79]]></wp:term_id>
+		<wp:term_id>79</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitness-nutrition]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[fitness nutrition]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[104]]></wp:term_id>
+		<wp:term_id>104</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitness-space]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[fitness space]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[65]]></wp:term_id>
+		<wp:term_id>65</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitnss]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[fitnss]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[93]]></wp:term_id>
+		<wp:term_id>93</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[football]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[football]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[70]]></wp:term_id>
+		<wp:term_id>70</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[football-player]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[football player]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[44]]></wp:term_id>
+		<wp:term_id>44</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[forests]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[forests]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[60]]></wp:term_id>
+		<wp:term_id>60</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[games]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Games]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[72]]></wp:term_id>
+		<wp:term_id>72</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[games]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[games]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[66]]></wp:term_id>
+		<wp:term_id>66</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[gamess]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[gamess]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[54]]></wp:term_id>
+		<wp:term_id>54</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[grow]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[grow]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[96]]></wp:term_id>
+		<wp:term_id>96</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[gym]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[gym]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[59]]></wp:term_id>
+		<wp:term_id>59</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[healthy]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[healthy]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[her-place]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[her place]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[78]]></wp:term_id>
+		<wp:term_id>78</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[hiring-the-nutrition]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[hiring the nutrition]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[39]]></wp:term_id>
+		<wp:term_id>39</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[houda-beach-cave]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[houda beach cave]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[77]]></wp:term_id>
+		<wp:term_id>77</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[hybrid-pro]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[hybrid pro]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[like-button]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[like button]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[49]]></wp:term_id>
+		<wp:term_id>49</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[making-rain]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[making rain]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[43]]></wp:term_id>
+		<wp:term_id>43</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[man-made]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[man made]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[103]]></wp:term_id>
+		<wp:term_id>103</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[mental-health]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[mental health]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[mona-lisa]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[mona lisa]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[museum]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[museum]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[51]]></wp:term_id>
+		<wp:term_id>51</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[naturalised-process]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[naturalised process]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[90]]></wp:term_id>
+		<wp:term_id>90</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[new-technology]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[new technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[newest-host]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[newest host]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[night]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[night]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[37]]></wp:term_id>
+		<wp:term_id>37</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[night-lights]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Night Lights]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[38]]></wp:term_id>
+		<wp:term_id>38</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[north-coast]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[north coast]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[76]]></wp:term_id>
+		<wp:term_id>76</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[nutriion]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[nutriion]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[28]]></wp:term_id>
+		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[office-culture]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[office culture]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[office-management]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[office management]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[30]]></wp:term_id>
+		<wp:term_id>30</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[painting]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[painting]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[32]]></wp:term_id>
+		<wp:term_id>32</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[painting-requirements]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[painting requirements]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[62]]></wp:term_id>
+		<wp:term_id>62</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[peekaboo-boxing]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[peekaboo boxing]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[principles]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[principles]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[82]]></wp:term_id>
+		<wp:term_id>82</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rarely-visit]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rarely visit]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[89]]></wp:term_id>
+		<wp:term_id>89</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[robots]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[robots]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[56]]></wp:term_id>
+		<wp:term_id>56</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[sixpack]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[sixpack]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_id>20</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[special-guests]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[special guests]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[spend-a-night]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[spend a night]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[sports]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Sports]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[67]]></wp:term_id>
+		<wp:term_id>67</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[sports]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[sports]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[74]]></wp:term_id>
+		<wp:term_id>74</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[sports-court]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[sports court]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[86]]></wp:term_id>
+		<wp:term_id>86</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[start-boating]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[start boating]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[52]]></wp:term_id>
+		<wp:term_id>52</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[startup]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[startup]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[33]]></wp:term_id>
+		<wp:term_id>33</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[steps-of-painting]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[steps of painting]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[88]]></wp:term_id>
+		<wp:term_id>88</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[stop-sittting]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[stop sittting]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[102]]></wp:term_id>
+		<wp:term_id>102</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[taking-care]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[taking care]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[technology]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[91]]></wp:term_id>
+		<wp:term_id>91</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[technology]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[81]]></wp:term_id>
+		<wp:term_id>81</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[thailand]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[thailand]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[105]]></wp:term_id>
+		<wp:term_id>105</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[top-header]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Top Header]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[69]]></wp:term_id>
+		<wp:term_id>69</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[trael]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[trael]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Travel]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[35]]></wp:term_id>
+		<wp:term_id>35</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[travel]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[1]]></wp:term_id>
+		<wp:term_id>1</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[94]]></wp:term_id>
+		<wp:term_id>94</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[vintage-gym]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[vintage gym]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[31]]></wp:term_id>
+		<wp:term_id>31</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[wall-painting]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[wall painting]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[40]]></wp:term_id>
+		<wp:term_id>40</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[waterfall]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[waterfall]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[web-design]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[web design]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[working-environment]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[working environment]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[100]]></wp:term_id>
+		<wp:term_id>100</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[world-best]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -1301,10 +1301,10 @@
 	<wp:term><wp:term_id>105</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-header]]></wp:term_slug><wp:term_name><![CDATA[Top Header]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 		<item>
-		<title>adult-art-artist-297648</title>
+		<title><![CDATA[adult-art-artist-297648]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/adult-art-artist-297648/</link>
 		<pubDate>Thu, 04 Apr 2019 10:02:19 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1315,6 +1315,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:02:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:02:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:02:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:02:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-art-artist-297648]]></wp:post_name>
@@ -1335,7 +1337,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-chair-company-380769</title>
+		<title><![CDATA[adult-chair-company-380769]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/adult-chair-company-380769/</link>
 		<pubDate>Thu, 04 Apr 2019 10:02:22 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1346,6 +1348,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:02:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:02:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:02:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:02:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-chair-company-380769]]></wp:post_name>
@@ -1366,7 +1370,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>art-artist-beautiful-933255</title>
+		<title><![CDATA[art-artist-beautiful-933255]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/art-artist-beautiful-933255/</link>
 		<pubDate>Thu, 04 Apr 2019 10:02:25 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1377,6 +1381,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:02:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:02:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:02:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:02:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[art-artist-beautiful-933255]]></wp:post_name>
@@ -1397,7 +1403,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>branding-design-pencils-6444</title>
+		<title><![CDATA[branding-design-pencils-6444]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/branding-design-pencils-6444/</link>
 		<pubDate>Thu, 04 Apr 2019 10:02:28 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1408,6 +1414,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:02:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:02:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:02:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:02:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[branding-design-pencils-6444]]></wp:post_name>
@@ -1428,7 +1436,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>design-development-electronics-326424</title>
+		<title><![CDATA[design-development-electronics-326424]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/design-development-electronics-326424/</link>
 		<pubDate>Thu, 04 Apr 2019 10:02:32 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1439,6 +1447,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:02:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:02:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:02:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:02:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[design-development-electronics-326424]]></wp:post_name>
@@ -1459,7 +1469,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beach-cave-coast-163872</title>
+		<title><![CDATA[beach-cave-coast-163872]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beach-cave-coast-163872/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:11 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1470,6 +1480,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beach-cave-coast-163872]]></wp:post_name>
@@ -1490,7 +1502,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beautiful-cascade-environment-460621</title>
+		<title><![CDATA[beautiful-cascade-environment-460621]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beautiful-cascade-environment-460621/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:15 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1501,6 +1513,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beautiful-cascade-environment-460621]]></wp:post_name>
@@ -1521,7 +1535,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cascade-environment-forest-934868</title>
+		<title><![CDATA[cascade-environment-forest-934868]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/cascade-environment-forest-934868/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:18 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1532,6 +1546,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cascade-environment-forest-934868]]></wp:post_name>
@@ -1552,7 +1568,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>clouds-daylight-desert-570026</title>
+		<title><![CDATA[clouds-daylight-desert-570026]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/clouds-daylight-desert-570026/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:21 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1563,6 +1579,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[clouds-daylight-desert-570026]]></wp:post_name>
@@ -1583,7 +1601,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>diagram-direction-display-1305360</title>
+		<title><![CDATA[diagram-direction-display-1305360]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/diagram-direction-display-1305360/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:24 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1594,6 +1612,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[diagram-direction-display-1305360]]></wp:post_name>
@@ -1614,7 +1634,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>abs-adult-athlete-1229356</title>
+		<title><![CDATA[abs-adult-athlete-1229356]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/abs-adult-athlete-1229356/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1625,6 +1645,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[abs-adult-athlete-1229356]]></wp:post_name>
@@ -1645,7 +1667,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-adult-athlete-598631</title>
+		<title><![CDATA[action-adult-athlete-598631]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/action-adult-athlete-598631/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:30 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1656,6 +1678,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-adult-athlete-598631]]></wp:post_name>
@@ -1676,7 +1700,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-adults-adventure-248547</title>
+		<title><![CDATA[action-adults-adventure-248547]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/action-adults-adventure-248547/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:33 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1687,6 +1711,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-adults-adventure-248547]]></wp:post_name>
@@ -1707,7 +1733,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-adventure-alpine-804570</title>
+		<title><![CDATA[action-adventure-alpine-804570]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/action-adventure-alpine-804570/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:35 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1718,6 +1744,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-adventure-alpine-804570]]></wp:post_name>
@@ -1738,7 +1766,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-american-football-athletes-1618200</title>
+		<title><![CDATA[action-american-football-athletes-1618200]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/action-american-football-athletes-1618200/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1749,6 +1777,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-american-football-athletes-1618200]]></wp:post_name>
@@ -1769,7 +1799,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-athlete-athletes-848618</title>
+		<title><![CDATA[action-athlete-athletes-848618]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/action-athlete-athletes-848618/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:41 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1780,6 +1810,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-athlete-athletes-848618]]></wp:post_name>
@@ -1800,7 +1832,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>active-adult-athlete-416778</title>
+		<title><![CDATA[active-adult-athlete-416778]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/active-adult-athlete-416778/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:44 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1811,6 +1843,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[active-adult-athlete-416778]]></wp:post_name>
@@ -1831,7 +1865,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adventure-backpacker-blue-sky-1271619</title>
+		<title><![CDATA[adventure-backpacker-blue-sky-1271619]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/adventure-backpacker-blue-sky-1271619/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:47 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1842,6 +1876,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adventure-backpacker-blue-sky-1271619]]></wp:post_name>
@@ -1862,7 +1898,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adventure-boat-daylight-2076775</title>
+		<title><![CDATA[adventure-boat-daylight-2076775]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/adventure-boat-daylight-2076775/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1873,6 +1909,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adventure-boat-daylight-2076775]]></wp:post_name>
@@ -1893,7 +1931,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ai-angry-artificial-39349</title>
+		<title><![CDATA[ai-angry-artificial-39349]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/ai-angry-artificial-39349/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:53 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1904,6 +1942,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ai-angry-artificial-39349]]></wp:post_name>
@@ -1924,7 +1964,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Archive</title>
+		<title><![CDATA[Archive]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/home/</link>
 		<pubDate>Thu, 04 Apr 2019 07:38:57 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1935,6 +1975,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 07:38:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 07:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1983,7 +2025,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sidebars</title>
+		<title><![CDATA[Sidebars]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/sidebar/</link>
 		<pubDate>Thu, 04 Apr 2019 07:38:57 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -1994,6 +2036,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 07:38:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 07:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
@@ -2042,7 +2086,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athletes-field-football-players-532805</title>
+		<title><![CDATA[athletes-field-football-players-532805]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/athletes-field-football-players-532805/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:56 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2053,6 +2097,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athletes-field-football-players-532805]]></wp:post_name>
@@ -2073,7 +2119,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>barbell-building-challenge-1552252</title>
+		<title><![CDATA[barbell-building-challenge-1552252]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/barbell-building-challenge-1552252/</link>
 		<pubDate>Thu, 04 Apr 2019 16:34:59 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2084,6 +2130,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:34:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[barbell-building-challenge-1552252]]></wp:post_name>
@@ -2104,7 +2152,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beach-beautiful-bridge-449627</title>
+		<title><![CDATA[beach-beautiful-bridge-449627]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beach-beautiful-bridge-449627/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:01 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2115,6 +2163,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beach-beautiful-bridge-449627]]></wp:post_name>
@@ -2135,7 +2185,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beach-blond-hair-fitness-1300526</title>
+		<title><![CDATA[beach-blond-hair-fitness-1300526]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beach-blond-hair-fitness-1300526/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:04 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2146,6 +2196,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beach-blond-hair-fitness-1300526]]></wp:post_name>
@@ -2166,7 +2218,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beach-blue-sky-carribean-1049298</title>
+		<title><![CDATA[beach-blue-sky-carribean-1049298]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beach-blue-sky-carribean-1049298/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:07 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2177,6 +2229,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beach-blue-sky-carribean-1049298]]></wp:post_name>
@@ -2197,7 +2251,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beach-bora-bora-clouds-753626</title>
+		<title><![CDATA[beach-bora-bora-clouds-753626]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beach-bora-bora-clouds-753626/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:10 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2208,6 +2262,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beach-bora-bora-clouds-753626]]></wp:post_name>
@@ -2228,7 +2284,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beach-caribbean-jetty-237272</title>
+		<title><![CDATA[beach-caribbean-jetty-237272]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/beach-caribbean-jetty-237272/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:13 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2239,6 +2295,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beach-caribbean-jetty-237272]]></wp:post_name>
@@ -2259,7 +2317,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>alps-beautiful-blue-sky-951325</title>
+		<title><![CDATA[alps-beautiful-blue-sky-951325]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/alps-beautiful-blue-sky-951325/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:16 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2270,6 +2328,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[alps-beautiful-blue-sky-951325]]></wp:post_name>
@@ -2290,7 +2350,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture-berlin-building-164313</title>
+		<title><![CDATA[architecture-berlin-building-164313]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/architecture-berlin-building-164313/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:19 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2301,6 +2361,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-berlin-building-164313]]></wp:post_name>
@@ -2321,7 +2383,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture-building-business-256381</title>
+		<title><![CDATA[architecture-building-business-256381]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/architecture-building-business-256381/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:22 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2332,6 +2394,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-building-business-256381]]></wp:post_name>
@@ -2352,7 +2416,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture-buildings-business-326468</title>
+		<title><![CDATA[architecture-buildings-business-326468]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/architecture-buildings-business-326468/</link>
 		<pubDate>Thu, 04 Apr 2019 16:35:26 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2363,6 +2427,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:35:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:35:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:35:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:35:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-buildings-business-326468]]></wp:post_name>
@@ -2383,7 +2449,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Categories</title>
+		<title><![CDATA[Categories]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/81/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2394,6 +2460,8 @@
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[81]]></wp:post_name>
@@ -2442,7 +2510,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/82/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2453,6 +2521,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[82]]></wp:post_name>
@@ -2501,7 +2571,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/83/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2512,6 +2582,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[83]]></wp:post_name>
@@ -2560,7 +2632,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blogmag</title>
+		<title><![CDATA[blogmag]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/blogmag/</link>
 		<pubDate>Wed, 10 Apr 2019 00:22:38 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2573,6 +2645,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-10 00:22:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-10 00:22:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-10 00:23:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-10 00:23:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogmag]]></wp:post_name>
@@ -2584,7 +2658,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>blogmagazine</title>
+		<title><![CDATA[blogmagazine]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/blogmagazine/</link>
 		<pubDate>Wed, 05 Jun 2019 11:21:15 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2595,6 +2669,8 @@
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 11:21:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 11:21:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-03 12:19:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-03 12:19:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogmagazine]]></wp:post_name>
@@ -2606,7 +2682,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>blogmagazine-banner</title>
+		<title><![CDATA[blogmagazine-banner]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/blogmagazine-banner/</link>
 		<pubDate>Thu, 22 Aug 2019 17:17:12 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2617,6 +2693,8 @@
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-22 17:17:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-22 17:17:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-22 17:17:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-22 17:17:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogmagazine-banner]]></wp:post_name>
@@ -2637,7 +2715,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/?post_type=everest_form&#038;p=251</link>
 		<pubDate>Fri, 30 Aug 2019 07:43:43 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2648,6 +2726,8 @@
 		<wp:post_id>251</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-30 07:43:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-30 07:43:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-30 07:43:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-30 07:43:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
@@ -2659,7 +2739,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/84/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2670,6 +2750,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[84]]></wp:post_name>
@@ -2718,7 +2800,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/85/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2729,6 +2811,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[85]]></wp:post_name>
@@ -2777,7 +2861,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/86/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2788,6 +2872,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[86]]></wp:post_name>
@@ -2836,7 +2922,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/87/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2847,6 +2933,8 @@
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[87]]></wp:post_name>
@@ -2895,7 +2983,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/88/</link>
 		<pubDate>Thu, 04 Apr 2019 19:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2906,6 +2994,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[88]]></wp:post_name>
@@ -2954,7 +3044,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/91/</link>
 		<pubDate>Thu, 04 Apr 2019 19:42:15 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -2965,6 +3055,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:42:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:42:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[91]]></wp:post_name>
@@ -3013,7 +3105,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Left Sidebar</title>
+		<title><![CDATA[Left Sidebar]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/left-sidebar-2/</link>
 		<pubDate>Thu, 04 Apr 2019 19:46:35 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3024,6 +3116,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:46:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:46:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[left-sidebar-2]]></wp:post_name>
@@ -3072,7 +3166,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Right SIdebar</title>
+		<title><![CDATA[Right SIdebar]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/right-sidebar-2/</link>
 		<pubDate>Thu, 04 Apr 2019 19:48:32 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3083,6 +3177,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:48:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:48:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[right-sidebar-2]]></wp:post_name>
@@ -3131,7 +3227,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>No Sidebar</title>
+		<title><![CDATA[No Sidebar]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/no-sidebar-2/</link>
 		<pubDate>Thu, 04 Apr 2019 19:48:32 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3142,6 +3238,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:48:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:48:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[no-sidebar-2]]></wp:post_name>
@@ -3190,7 +3288,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>No Sidebar Center</title>
+		<title><![CDATA[No Sidebar Center]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/no-sidebar-center-2/</link>
 		<pubDate>Thu, 04 Apr 2019 19:48:32 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3201,6 +3299,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:48:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:48:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[no-sidebar-center-2]]></wp:post_name>
@@ -3249,7 +3349,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Post</title>
+		<title><![CDATA[Post]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/post/</link>
 		<pubDate>Wed, 29 May 2019 17:51:59 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3260,6 +3360,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-29 17:51:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-29 17:51:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[post]]></wp:post_name>
@@ -3308,7 +3410,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Both Sidebar</title>
+		<title><![CDATA[Both Sidebar]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/both-sidebar/</link>
 		<pubDate>Wed, 03 Jul 2019 21:37:41 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3319,6 +3421,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-03 21:37:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-03 21:37:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[both-sidebar]]></wp:post_name>
@@ -3367,7 +3471,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/188/</link>
 		<pubDate>Sun, 14 Jul 2019 10:58:00 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3378,6 +3482,8 @@
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 10:58:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 10:58:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-14 11:02:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-14 11:02:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[188]]></wp:post_name>
@@ -3422,7 +3528,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/189/</link>
 		<pubDate>Sun, 14 Jul 2019 10:58:00 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3433,6 +3539,8 @@
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 10:58:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 10:58:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-14 10:58:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-14 10:58:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[189]]></wp:post_name>
@@ -3477,7 +3585,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/192/</link>
 		<pubDate>Sun, 14 Jul 2019 11:02:07 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3488,6 +3596,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 11:02:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 11:02:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-14 11:02:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-14 11:02:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[192]]></wp:post_name>
@@ -3532,7 +3642,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/198/</link>
 		<pubDate>Sun, 14 Jul 2019 19:36:37 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3543,6 +3653,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 19:36:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 19:36:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[198]]></wp:post_name>
@@ -3591,7 +3703,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/199/</link>
 		<pubDate>Sun, 14 Jul 2019 19:36:37 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3602,6 +3714,8 @@
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 19:36:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 19:36:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[199]]></wp:post_name>
@@ -3650,7 +3764,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>View Pro</title>
+		<title><![CDATA[View Pro]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/view-pro/</link>
 		<pubDate>Tue, 13 Aug 2019 07:37:23 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3661,6 +3775,8 @@
 		<wp:post_id>227</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 07:37:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 07:37:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[view-pro]]></wp:post_name>
@@ -3705,7 +3821,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Demos</title>
+		<title><![CDATA[Demos]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/demos/</link>
 		<pubDate>Mon, 19 Aug 2019 06:11:17 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3716,6 +3832,8 @@
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-19 06:11:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-19 06:11:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demos]]></wp:post_name>
@@ -3760,7 +3878,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Templates</title>
+		<title><![CDATA[Templates]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/templates/</link>
 		<pubDate>Mon, 19 Aug 2019 06:11:17 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3771,6 +3889,8 @@
 		<wp:post_id>233</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-19 06:11:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-19 06:11:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[templates]]></wp:post_name>
@@ -3815,7 +3935,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>On the Facebook Like button, and why it’s awful.</title>
+		<title><![CDATA[On the Facebook Like button, and why it’s awful.]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/on-the-facebook-like-button-and-why-its-awful/</link>
 		<pubDate>Thu, 04 Apr 2019 09:40:20 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -3964,6 +4084,8 @@ freedom.</em></p></blockquote>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 09:40:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 09:40:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 19:52:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 19:52:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[on-the-facebook-like-button-and-why-its-awful]]></wp:post_name>
@@ -3991,7 +4113,7 @@ freedom.</em></p></blockquote>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/blog/</link>
 		<pubDate>Thu, 04 Apr 2019 09:42:56 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4002,6 +4124,8 @@ freedom.</em></p></blockquote>
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 09:42:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 09:42:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 09:42:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 09:42:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -4017,7 +4141,7 @@ freedom.</em></p></blockquote>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>9 Essential Principles for Good Web Design</title>
+		<title><![CDATA[9 Essential Principles for Good Web Design]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/9-essential-principles-for-good-web-design/</link>
 		<pubDate>Thu, 04 Apr 2019 10:11:13 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4418,6 +4542,8 @@ avoid having to remember specific class names all the time. </p>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:11:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:11:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:12:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:12:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[9-essential-principles-for-good-web-design]]></wp:post_name>
@@ -4443,7 +4569,7 @@ avoid having to remember specific class names all the time. </p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Airbnb’s Newest Host Is the ‘Mona Lisa,’ and the Louvre’s Letting Two Special Guests Spend a Night at Her Place</title>
+		<title><![CDATA[Airbnb’s Newest Host Is the ‘Mona Lisa,’ and the Louvre’s Letting Two Special Guests Spend a Night at Her Place]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/airbnbs-newest-host-is-the-mona-lisa-and-the-louvres-letting-two-special-guests-spend-a-night-at-her-place/</link>
 		<pubDate>Thu, 04 Apr 2019 10:20:14 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4506,6 +4632,8 @@ director of the Musée du Louvre.</p>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:20:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:20:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:20:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:20:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[airbnbs-newest-host-is-the-mona-lisa-and-the-louvres-letting-two-special-guests-spend-a-night-at-her-place]]></wp:post_name>
@@ -4534,7 +4662,7 @@ director of the Musée du Louvre.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>4 Ways to Improve Your Office&#039;s Work Environment</title>
+		<title><![CDATA[4 Ways to Improve Your Office's Work Environment]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/4-ways-to-improve-your-offices-work-environment/</link>
 		<pubDate>Thu, 04 Apr 2019 10:42:57 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4664,6 +4792,8 @@ employee goes above and beyond on&nbsp;a project, or puts in a series of late
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 10:42:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 10:42:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 10:43:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 10:43:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[4-ways-to-improve-your-offices-work-environment]]></wp:post_name>
@@ -4689,7 +4819,7 @@ employee goes above and beyond on&nbsp;a project, or puts in a series of late
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to Paint a Wall?</title>
+		<title><![CDATA[How to Paint a Wall?]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/how-to-paint-a-wall/</link>
 		<pubDate>Thu, 04 Apr 2019 16:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4762,6 +4892,8 @@ until that section of wall is fully covered. Continue, adding more paint
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:04:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:04:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:04:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:04:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-paint-a-wall]]></wp:post_name>
@@ -4787,7 +4919,7 @@ until that section of wall is fully covered. Continue, adding more paint
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>North Coast Night Lights: Houda Beach Cave</title>
+		<title><![CDATA[North Coast Night Lights: Houda Beach Cave]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/north-coast-night-lights-houda-beach-cave/</link>
 		<pubDate>Thu, 04 Apr 2019 16:46:44 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4824,6 +4956,8 @@ until that section of wall is fully covered. Continue, adding more paint
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:46:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:46:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:46:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:46:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[north-coast-night-lights-houda-beach-cave]]></wp:post_name>
@@ -4849,7 +4983,7 @@ until that section of wall is fully covered. Continue, adding more paint
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>China claims world’s biggest man-made waterfall</title>
+		<title><![CDATA[China claims world’s biggest man-made waterfall]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/china-claims-worlds-biggest-man-made-waterfall/</link>
 		<pubDate>Thu, 04 Apr 2019 16:52:32 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -4941,6 +5075,8 @@ like this. Whether it’s a waste of money or worth more than the 800 yuan
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:52:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:52:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 16:52:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 16:52:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[china-claims-worlds-biggest-man-made-waterfall]]></wp:post_name>
@@ -4966,7 +5102,7 @@ like this. Whether it’s a waste of money or worth more than the 800 yuan
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Forests west of the Cascades will see more fires, bigger fires with climate change</title>
+		<title><![CDATA[Forests west of the Cascades will see more fires, bigger fires with climate change]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/forests-west-of-the-cascades-will-see-more-fires-bigger-fires-with-climate-change/</link>
 		<pubDate>Thu, 04 Apr 2019 16:58:47 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5201,6 +5337,8 @@ based in Corvallis, Oregon. “Fire is laying bare the conditions for that
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 16:58:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 16:58:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-29 17:08:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-29 17:08:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[forests-west-of-the-cascades-will-see-more-fires-bigger-fires-with-climate-change]]></wp:post_name>
@@ -5233,7 +5371,7 @@ based in Corvallis, Oregon. “Fire is laying bare the conditions for that
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cloud seeding: Making rain in desert by a naturalised process</title>
+		<title><![CDATA[Cloud seeding: Making rain in desert by a naturalised process]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/cloud-seeding-making-rain-in-desert-by-a-naturalised-process/</link>
 		<pubDate>Thu, 04 Apr 2019 17:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5363,6 +5501,8 @@ fly into the dangerous parts of the sky.”</p>
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 17:54:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 17:54:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-03 21:36:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-03 21:36:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[cloud-seeding-making-rain-in-desert-by-a-naturalised-process]]></wp:post_name>
@@ -5395,7 +5535,7 @@ fly into the dangerous parts of the sky.”</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>15 ways how to grow your Startup</title>
+		<title><![CDATA[15 ways how to grow your Startup]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/15-ways-how-to-grow-your-startup/</link>
 		<pubDate>Thu, 04 Apr 2019 17:57:52 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5457,6 +5597,8 @@ brand of your&nbsp;startup.</p></blockquote>
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 17:57:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 17:57:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 17:57:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 17:57:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[15-ways-how-to-grow-your-startup]]></wp:post_name>
@@ -5481,7 +5623,7 @@ brand of your&nbsp;startup.</p></blockquote>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/contact/</link>
 		<pubDate>Thu, 04 Apr 2019 19:41:47 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5494,6 +5636,8 @@ brand of your&nbsp;startup.</p></blockquote>
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:41:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:41:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-30 07:44:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-30 07:44:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5517,7 +5661,7 @@ brand of your&nbsp;startup.</p></blockquote>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/</link>
 		<pubDate>Wed, 29 May 2019 17:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5528,6 +5672,8 @@ brand of your&nbsp;startup.</p></blockquote>
 		<wp:post_id>162</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-29 17:50:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-29 17:50:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-29 17:50:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-29 17:50:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -5547,7 +5693,7 @@ brand of your&nbsp;startup.</p></blockquote>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blocks</title>
+		<title><![CDATA[Blocks]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/blocks/</link>
 		<pubDate>Sun, 14 Jul 2019 19:33:49 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5753,6 +5899,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 19:33:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 19:33:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-14 20:20:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-14 20:20:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blocks]]></wp:post_name>
@@ -5784,7 +5932,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Page</title>
+		<title><![CDATA[Page]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/page/</link>
 		<pubDate>Sun, 14 Jul 2019 19:35:42 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5815,6 +5963,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-14 19:35:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-14 19:35:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-22 06:08:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-22 06:08:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page]]></wp:post_name>
@@ -5838,7 +5988,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Search</title>
+		<title><![CDATA[Search]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/search/</link>
 		<pubDate>Mon, 19 Aug 2019 06:12:24 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5849,6 +5999,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-19 06:12:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-19 06:12:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[search]]></wp:post_name>
@@ -5893,7 +6045,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>404</title>
+		<title><![CDATA[404]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/404/</link>
 		<pubDate>Mon, 19 Aug 2019 06:12:24 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5904,6 +6056,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-19 06:12:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-19 06:12:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[404]]></wp:post_name>
@@ -5948,7 +6102,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default</title>
+		<title><![CDATA[Default]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/default/</link>
 		<pubDate>Mon, 19 Aug 2019 06:14:56 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -5959,6 +6113,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-19 06:14:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-19 06:14:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default]]></wp:post_name>
@@ -6003,7 +6159,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Arabic(RTL)</title>
+		<title><![CDATA[Arabic(RTL)]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/arabicrtl/</link>
 		<pubDate>Mon, 19 Aug 2019 06:14:56 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -6014,6 +6170,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-19 06:14:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-19 06:14:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[arabicrtl]]></wp:post_name>
@@ -6058,7 +6216,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Download</title>
+		<title><![CDATA[Download]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/download/</link>
 		<pubDate>Fri, 13 Sep 2019 15:06:45 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -6069,6 +6227,8 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 15:06:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 15:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 15:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[download]]></wp:post_name>
@@ -6113,7 +6273,7 @@ https://www.youtube.com/watch?v=jcNI8inauWk
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The 8 Best Ways to Get 6-Pack Abs Fast</title>
+		<title><![CDATA[The 8 Best Ways to Get 6-Pack Abs Fast]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/the-8-best-ways-to-get-6-pack-abs-fast/</link>
 		<pubDate>Thu, 04 Apr 2019 18:03:57 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -6520,6 +6680,8 @@ making any other modifications in terms of diet or exercise (<a href="https://ww
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 18:03:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 18:03:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 18:04:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 18:04:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-8-best-ways-to-get-6-pack-abs-fast]]></wp:post_name>
@@ -6547,7 +6709,7 @@ making any other modifications in terms of diet or exercise (<a href="https://ww
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Peekaboo Boxing &#124; The Fading Art of ‘Aggressively Safe’ Boxing</title>
+		<title><![CDATA[Peekaboo Boxing | The Fading Art of ‘Aggressively Safe’ Boxing]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/peekaboo-boxing-the-fading-art-of-aggressively-safe-boxing/</link>
 		<pubDate>Thu, 04 Apr 2019 18:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -6853,6 +7015,8 @@ power to rising uppercuts and hooks.</p>
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 18:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 18:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 18:18:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 18:18:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[peekaboo-boxing-the-fading-art-of-aggressively-safe-boxing]]></wp:post_name>
@@ -6878,7 +7042,7 @@ power to rising uppercuts and hooks.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>SRAM Force eTap AXS unlocks 12 speed, Red-like performance for less</title>
+		<title><![CDATA[SRAM Force eTap AXS unlocks 12 speed, Red-like performance for less]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/sram-force-etap-axs-unlocks-12-speed-red-like-performance-for-less/</link>
 		<pubDate>Thu, 04 Apr 2019 18:46:30 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -7244,6 +7408,8 @@ have the ability to purchase individual parts.</p>
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 18:46:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 18:46:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-04 18:46:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-04 18:46:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sram-force-etap-axs-unlocks-12-speed-red-like-performance-for-less]]></wp:post_name>
@@ -7271,7 +7437,7 @@ have the ability to purchase individual parts.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>What you need for an Alpine adventure - written by expert guide Kathy Murphy</title>
+		<title><![CDATA[What you need for an Alpine adventure - written by expert guide Kathy Murphy]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/what-you-need-for-an-alpine-adventure-written-by-expert-guide-kathy-murphy/</link>
 		<pubDate>Thu, 04 Apr 2019 18:55:02 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -7361,6 +7527,8 @@ always buy a new pair of Goretex Packlite Overtrousers made by Berghaus.
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 18:55:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 18:55:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-29 17:01:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-29 17:01:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-you-need-for-an-alpine-adventure-written-by-expert-guide-kathy-murphy]]></wp:post_name>
@@ -7396,7 +7564,7 @@ always buy a new pair of Goretex Packlite Overtrousers made by Berghaus.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to Build the Ultimate American Football Player</title>
+		<title><![CDATA[How to Build the Ultimate American Football Player]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/how-to-build-the-ultimate-american-football-player/</link>
 		<pubDate>Thu, 04 Apr 2019 19:09:15 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -7846,6 +8014,8 @@ industry is all about.</p>
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-04 19:09:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-04 19:09:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-29 17:07:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-29 17:07:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-build-the-ultimate-american-football-player]]></wp:post_name>
@@ -7879,7 +8049,7 @@ industry is all about.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sports court delays Caster Semenya verdict until April</title>
+		<title><![CDATA[Sports court delays Caster Semenya verdict until April]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/sports-court-delays-caster-semenya-verdict-until-april/</link>
 		<pubDate>Fri, 05 Apr 2019 08:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -7896,6 +8066,8 @@ industry is all about.</p>
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-05 08:01:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-05 08:01:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 08:01:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 08:01:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sports-court-delays-caster-semenya-verdict-until-april]]></wp:post_name>
@@ -7932,7 +8104,7 @@ industry is all about.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hiring the Nutrition-Fitness Hybrid Pro</title>
+		<title><![CDATA[Hiring the Nutrition-Fitness Hybrid Pro]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/hiring-the-nutrition-fitness-hybrid-pro/</link>
 		<pubDate>Fri, 05 Apr 2019 08:06:03 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -8067,6 +8239,8 @@ updates.</p>
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-05 08:06:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-05 08:06:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 08:06:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 08:06:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hiring-the-nutrition-fitness-hybrid-pro]]></wp:post_name>
@@ -8095,7 +8269,7 @@ updates.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>10 Places in Thailand That Backpackers Rarely Visit</title>
+		<title><![CDATA[10 Places in Thailand That Backpackers Rarely Visit]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/10-places-in-thailand-that-backpackers-rarely-visit/</link>
 		<pubDate>Fri, 05 Apr 2019 08:18:11 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -8417,6 +8591,8 @@ huge prison with over 10,000 prisoners sent there.</p>
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-05 08:18:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-05 08:18:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 08:18:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 08:18:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[10-places-in-thailand-that-backpackers-rarely-visit]]></wp:post_name>
@@ -8442,7 +8618,7 @@ huge prison with over 10,000 prisoners sent there.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Stop Sitting There and Start Boating: Daylight is Burning</title>
+		<title><![CDATA[Stop Sitting There and Start Boating: Daylight is Burning]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/stop-sitting-there-and-start-boating-daylight-is-burning/</link>
 		<pubDate>Fri, 05 Apr 2019 08:22:43 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -8562,6 +8738,8 @@ halfway over. Go have some fun already!</p>
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-05 08:22:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-05 08:22:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 08:22:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 08:22:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[stop-sitting-there-and-start-boating-daylight-is-burning]]></wp:post_name>
@@ -8586,7 +8764,7 @@ halfway over. Go have some fun already!</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Robots will control everything you eat</title>
+		<title><![CDATA[Robots will control everything you eat]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/robots-will-control-everything-you-eat/</link>
 		<pubDate>Fri, 05 Apr 2019 08:27:45 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -8954,6 +9132,8 @@ can do is going to continue to change and to evolve quickly.”&nbsp;</p>
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-05 08:27:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-05 08:27:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 08:27:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 08:27:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[robots-will-control-everything-you-eat]]></wp:post_name>
@@ -8978,7 +9158,7 @@ can do is going to continue to change and to evolve quickly.”&nbsp;</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ahead of Super Bowl, Trump Raises Doubts on Tackle Football for His Son</title>
+		<title><![CDATA[Ahead of Super Bowl, Trump Raises Doubts on Tackle Football for His Son]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/ahead-of-super-bowl-trump-raises-doubts-on-tackle-football-for-his-son/</link>
 		<pubDate>Fri, 05 Apr 2019 15:55:38 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -9074,6 +9254,8 @@ hard time with it.”</p>
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-05 15:55:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-05 15:55:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 15:55:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 15:55:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[ahead-of-super-bowl-trump-raises-doubts-on-tackle-football-for-his-son]]></wp:post_name>
@@ -9098,7 +9280,7 @@ hard time with it.”</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to Choose a Barbell vintage gym barbell</title>
+		<title><![CDATA[How to Choose a Barbell vintage gym barbell]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/how-to-choose-a-barbell-vintage-gym-barbell/</link>
 		<pubDate>Sat, 06 Apr 2019 05:30:24 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -9404,6 +9586,8 @@ of your training, and you will be using it day-in and day-out. Don’t get
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-06 05:30:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-06 05:30:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-06 05:30:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-06 05:30:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-choose-a-barbell-vintage-gym-barbell]]></wp:post_name>
@@ -9427,7 +9611,7 @@ of your training, and you will be using it day-in and day-out. Don’t get
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>24 of the world&#039;s most amazing bridges</title>
+		<title><![CDATA[24 of the world's most amazing bridges]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/24-of-the-worlds-most-amazing-bridges/</link>
 		<pubDate>Sat, 06 Apr 2019 05:42:21 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -9709,6 +9893,8 @@ marvel and engineering feat.
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-06 05:42:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-06 05:42:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-06 05:42:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-06 05:42:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[24-of-the-worlds-most-amazing-bridges]]></wp:post_name>
@@ -9735,7 +9921,7 @@ marvel and engineering feat.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Taking Care of Your Mental Health in the Fitness Space</title>
+		<title><![CDATA[Taking Care of Your Mental Health in the Fitness Space]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/taking-care-of-your-mental-health-in-the-fitness-space/</link>
 		<pubDate>Sat, 06 Apr 2019 05:51:57 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -10089,6 +10275,8 @@ thought.</p>
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-06 05:51:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-06 05:51:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-06 05:52:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-06 05:52:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[taking-care-of-your-mental-health-in-the-fitness-space]]></wp:post_name>
@@ -10112,7 +10300,7 @@ thought.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Best Caribbean Beaches For 2019: The Ultimate List</title>
+		<title><![CDATA[The Best Caribbean Beaches For 2019: The Ultimate List]]></title>
 		<link>https://demo.dinesh-ghimire.com.np/wpthemes/blogmagazine/the-best-caribbean-beaches-for-2019-the-ultimate-list/</link>
 		<pubDate>Sat, 06 Apr 2019 06:30:10 +0000</pubDate>
 		<dc:creator><![CDATA[developerdinesh]]></dc:creator>
@@ -10255,6 +10443,8 @@ Runners-up include Saona Island and Playa Bavaro.</p>
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-06 06:30:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-06 06:30:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-27 14:01:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-27 14:01:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-caribbean-beaches-for-2019-the-ultimate-list]]></wp:post_name>
