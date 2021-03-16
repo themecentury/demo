@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7" created="2021-03-11 10:09" -->
+	<!-- generator="WordPress/5.7" created="2021-03-16 10:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Slain</title>
 	<link>https://demo.themecentury.com/wpthemes/slain</link>
 	<description>Just another Themes Demo site</description>
-	<pubDate>Thu, 11 Mar 2021 10:09:45 +0000</pubDate>
+	<pubDate>Tue, 16 Mar 2021 10:37:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.themecentury.com/wpthemes/</wp:base_site_url>
@@ -1141,17 +1141,13 @@
 		<dc:creator><![CDATA[centurydemo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themecentury.com/wpthemes/slain/slain/</guid>
 		<description></description>
-		<content:encoded><![CDATA[.home-full-area{
-	padding-top:30px;
-}
-
-]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 09:34:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 09:34:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-04 10:23:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-04 10:23:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-11 11:16:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-11 11:16:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[slain]]></wp:post_name>
