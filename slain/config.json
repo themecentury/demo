@@ -108,6 +108,14 @@
                     "init": "contact-form-7\/wp-contact-form-7.php", 
                     "name": "Contact Form 7"
                 }
+            ],
+            "premium":[ 
+                {
+                    "slug": "slain-pro", 
+                    "init": "slain-pro\/slain-pro.php", 
+                    "name": "Slain Pro",
+                    "link": "https:\/\/themecentury.com/downloads/slain-pro-premium-wordpress-plugin\/"
+                }
             ]
         }
     }
