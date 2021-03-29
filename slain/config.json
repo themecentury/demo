@@ -88,7 +88,7 @@
     "sports": {
         "categories":[
             "Blog",
-            "magazine"
+            "Magazine"
         ],
         "home_slug":"home",
         "blog_slug":"blog",
